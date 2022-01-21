@@ -1,0 +1,46 @@
+*{
+    margin-top: 0%;
+    margin-left: 0%;
+}
+.stylejombo{
+    height: 400px;
+    background-image : url("./marvel_studios.jpg");
+   background-size: cover;
+    background-position: 0 100%;
+    border: 5px solid rgb(233, 116, 178);
+}
+
+.im
+{
+    height: 75vh;
+    background-image : url("/ironman.jpg");
+    background-size: cover;
+    border:5px solid  rgb(236, 101, 101);
+}
+
+.ca
+{
+    height: 75vh;
+    background-image : url("./captaina_america.jpg");
+    background-size: cover;
+    border: 5px solid rgb(88, 235, 112);
+
+}
+.tr
+{
+    height: 75vh;
+    background-image : url("./thor.jpg");
+    background-size: cover;
+    border: 5px solid rgb(255, 252, 70);
+}
+.slogan{
+    font-family: 'Times New Roman'; 
+    color: rgb(189, 22, 22);
+    border: 5px solid rgb(144, 84, 240);
+    background-color: gray;
+
+  
+}
+#nav {
+    color: darkturquoise;
+}
